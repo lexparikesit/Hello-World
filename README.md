@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Alex!
-- 👀 I’m interested in Data Analysis, Machine Learning, AI, and Computer Vision
-- 🌱 I’m currently learning Python and Data Science
+- 👋 Hi, I’m Alex! A Computer Science Student
+- 👀 Interesting in Data Analysis and Science, Machine Learning, Artificial Intelligence 
+- 🌱 Currently learning Python and Data Science
 -  📫 You can reach me through this link: https://linktr.ee/lexparikesit
 
 <!---
