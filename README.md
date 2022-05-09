@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex!
-- 👀 I’m interested in Front End development, Machine Learning, AI, and Computer Vision
-- 🌱 I’m currently learning Python and Web Dev (Front-End)
+- 👀 I’m interested in Data Analysis, Machine Learning, AI, and Computer Vision
+- 🌱 I’m currently learning Python and Data Science
 -  📫 You can reach me through this link: https://linktr.ee/lexparikesit
 
 <!---
